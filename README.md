@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Derrick Maloba</h1>
+<h1 align="center">Hi there, I'm Derrick Maloba</h1>
 
 <p align="center">
   <em>
@@ -9,24 +9,24 @@
 
 ---
 
-### 🌟 About Me
+###  About Me
 
-💻 I started with **Software Engineering** because I believe in building things that **solve real-world problems**.  
-❤️ What inspires me is seeing how technology empowers people.  
-🚀 I am deeply passionate about building scalable web applications and clean user interfaces.  
-🎯 My goal is to **to contribute to open-source projects and develop tools that improve people's daily lives**.
-
----
-
-### 🔧 What I'm Working On
-
-- 💡 Projects focused on **APIs, automation tools, DevOps, AI apps**
-- 📚 Enhancing my skills in **Python, React, Docker, Cloud Infrastructure**
-- 🤝 Collaborating on **real-world problems** and contributing to **open-source communities**
+ I started with **Software Engineering** because I believe in building things that **solve real-world problems**.  
+ What inspires me is seeing how technology empowers people.  
+ I am deeply passionate about building scalable web applications and clean user interfaces.  
+ My goal is to **to contribute to open-source projects and develop tools that improve people's daily lives**.
 
 ---
 
-### 🛠️ Tech Stack
+###  What I'm Working On
+
+-  Projects focused on **APIs, automation tools, DevOps, AI apps**
+-  Enhancing my skills in **Python, React, Docker, Cloud Infrastructure**
+-  Collaborating on **real-world problems** and contributing to **open-source communities**
+
+---
+
+###  Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,7 +39,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malobaderrick&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -49,12 +49,12 @@
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 - LinkedIn: www.linkedin.com/in/derrick-maloba-9b1277219  
 - Twitter: https://x.com/DerrickMbugwa
 - Email: malobaderrick94@gmail.com  
 
-> ⚡ _"MOVE ON & Keep Moving." — My motto as I grow in tech with purpose and persistence._
+>  _"MOVE ON & Keep Moving." — My motto as I grow in tech with purpose and persistence._
 
 ---
